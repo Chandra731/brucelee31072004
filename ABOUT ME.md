@@ -16,6 +16,19 @@ I'm a BCA student at Srinivas University, Bangalore, with a strong passion for t
 * **Programming:** Python (NumPy, Pandas)
 * **Data Analysis:** Advanced Excel, SQL
 
+* ### 🛡️ Ethical Hacking:
+
+* **Certified Ethical Hacker (CEH):** Successfully completed the CEH certification program, demonstrating my knowledge of ethical hacking methodologies, tools, and techniques.
+* **Key Skills:** 
+    * Vulnerability assessment and penetration testing
+    * Network scanning and reconnaissance
+    * Web application security
+    * Social engineering awareness
+* **I'm passionate about:**
+    * Helping organizations identify and address security vulnerabilities.
+    * Contributing to a safer digital landscape through responsible ethical hacking practices.
+
+
 ### 🔭 I’m looking to collaborate on...
 
 * **ML/AI projects:** Eager to gain hands-on experience and learn from experts.
