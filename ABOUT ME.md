@@ -40,7 +40,6 @@ I'm a BCA student at Srinivas University, Bangalore, with a strong passion for t
 * **LinkedIn:** (https://www.linkedin.com/in/y-chandra-sekhar-b16535252 )
 * **Email:** [chandrabrucelee31@gmail.com]
 
-### ⚡ Fun fact:
 
 I believe technology is the key to a brighter future, and I'm excited to be part of that journey!
 
