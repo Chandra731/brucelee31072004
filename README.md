@@ -18,7 +18,7 @@ I'm a BCA student at Srinivas University, Bangalore, with a strong passion for t
 
 * ### 🛡️ Ethical Hacking:
 
-* **Certified Ethical Hacker (CEH):** Successfully completed the CEH certification program, demonstrating my knowledge of ethical hacking methodologies, tools, and techniques.
+* **Ethical Hacker (EH):** Successfully completed the CEH certification program, demonstrating my knowledge of ethical hacking methodologies, tools, and techniques.
 * **Key Skills:** 
     * Vulnerability assessment and penetration testing
     * Network scanning and reconnaissance
