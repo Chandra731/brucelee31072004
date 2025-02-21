@@ -37,7 +37,7 @@ I'm a BCA student at Srinivas University, Bangalore, with a strong passion for t
 
 ### 📫 How to reach me:
 
-* **LinkedIn:** (https://www.linkedin.com/in/y-chandra-sekhar-b16535252 )
+* **LinkedIn:** (https://www.linkedin.com/in/chandra-sekhar-b16535252 )
 * **Email:** [chandrabrucelee31@gmail.com]
 
 
